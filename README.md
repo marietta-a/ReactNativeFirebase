@@ -1,0 +1,2 @@
+# ReactNativeFirebase
+For learning purposes
